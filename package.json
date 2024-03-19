@@ -1,0 +1,17 @@
+{
+  "name": "catrandom",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node catpicpfprandom.js"
+  },
+  "dependencies": {
+    "@vitalets/google-translate-api": "^9.2.0",
+    "discord.js": "^14.14.1",
+    "discord.js-selfbot-v13": "^3.1.4",
+    "dotenv": "^16.4.4",
+    "google-translate-api": "^2.3.0",
+    "jimp": "^0.22.12",
+    "node-fetch": "^3.3.2",
+    "random-cat-img": "^1.1.5"
+  }
+}
