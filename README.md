@@ -58,7 +58,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Disclaimer
 
 This project uses the discord.js-selfbot-v13 library, which allows for the creation of self-bots. The creation and use of self-bots are against Discord's Terms of Service. Use this bot and library at your own risk.
-
----
-
-Remember, a README file is often the first thing users or contributors see when they encounter your project. It's your opportunity to make a good impression and guide them through using and contributing to your project.
